@@ -1,0 +1,30 @@
+.resimSlider {
+    height: 600px;
+}
+
+body {
+    padding-top: 50px;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+
+.ayrac{
+    border: 3px solid #341a40;
+    max-width: 500px;
+    margin: 25px auto;
+}
+
+.ekipCard img:hover{
+    opacity: 0.8;
+
+}
+.galeri{
+    background-color: #f2f2f2;
+}
+
+.figure:hover{
+    opacity: 0.8;
+}
